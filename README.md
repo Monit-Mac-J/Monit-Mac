@@ -1,7 +1,7 @@
 # Monit – System Resource Monitor for Mac Menu Bar
 
 <p align="center">
-  <img src="https://images.dwnldn.net/images/t_app-icon-l/p/97ba2e4f-c368-4456-9c64-2c78afd2b526/2802496333/2094_4-78136281-imgingest-4101039529661790276.png" width="150" alt="Monit icon"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/f4/b5/03f4b50d-d2e2-678a-e8d0-e5415aa86668/Placeholder.mill/200x200bb-75.webp" width="150" alt="Monit icon"/>
 </p>
 
 <p align="center">
